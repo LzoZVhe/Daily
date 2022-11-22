@@ -48,35 +48,35 @@ http://203.81.84.130/hls/mwd_movie/index.m3u8
 http://183.89.246.119:8881/play/a07q/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/canal-plus-sports-1-myanmar-fr-mm.png" group-title="Myanmar",Canal+ Sport 1
-http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:67:EB:60&stream=941755&extension=ts&play_token=EsigBOh3mS
+#http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:67:EB:60&stream=941755&extension=ts&play_token=EsigBOh3mS
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/canal-plus-sports-2-myanmar-fr-mm.png" group-title="Myanmar",Canal+ Sport 2
-http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:67:EB:60&stream=941754&extension=ts&play_token=EsigBOh3mS
+#http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:67:EB:60&stream=941754&extension=ts&play_token=EsigBOh3mS
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/canal-plus-action-myanmar-fr-mm.png" group-title="Myanmar",Canal+ Action
-http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:67:EB:60&stream=941760&extension=ts&play_token=8gPEDmimXy
+#http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:67:EB:60&stream=941760&extension=ts&play_token=8gPEDmimXy
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/canal-plus-zatlenn-myanmar-fr-mm.png" group-title="Myanmar",Canal+ Zatlan
-http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:A1:AF:94&stream=941759&extension=ts&play_token=UBKsRZi5v3
+#http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:A1:AF:94&stream=941759&extension=ts&play_token=UBKsRZi5v3
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/canal-plus-chatate-myanmar-fr-mm.png" group-title="Myanmar",Canal+ Chatate
-http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:67:EB:60&stream=941757&extension=ts&play_token=532yioqS0t
+#http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:67:EB:60&stream=941757&extension=ts&play_token=532yioqS0t
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/canal-plus-pututue-myanmar-fr-mm.png" group-title="Myanmar",Canal+ Pu tu tue
-http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:67:EB:60&stream=941756&extension=ts&play_token=2Tioi8umkG
+#http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:67:EB:60&stream=941756&extension=ts&play_token=2Tioi8umkG
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/canal-plus-susann-myanmar-fr-mm.png" group-title="Myanmar",Canal+ Susan
-http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:A1:AF:94&stream=941762&extension=ts&play_token=LHlRd2ubEO
+#http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:A1:AF:94&stream=941762&extension=ts&play_token=LHlRd2ubEO
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/canal-plus-maemadi-myanmar-fr-mm.png" group-title="Myanmar",Canal+ Maemadi
-http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:A1:AF:94&stream=941761&extension=ts&play_token=joS3isYhoY
+#http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:A1:AF:94&stream=941761&extension=ts&play_token=joS3isYhoY
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jS3Bfmc9/Screenshot-20221115-162121.jpg" group-title="Myanmar", သုခုမ ၁
-http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:67:EB:60&stream=941738&extension=ts&play_token=vNCEivKfQm
+#http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:67:EB:60&stream=941738&extension=ts&play_token=vNCEivKfQm
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4dsvxNtT/Screenshot-20221115-162205.jpg" group-title="Myanmar",သုခုမ ၂
-http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:67:EB:60&stream=941739&extension=ts&play_token=EsigBOh3mS
+#http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:67:EB:60&stream=941739&extension=ts&play_token=EsigBOh3mS
 
 
 #EXTINF:-1 tvg-logo="http://tv.linkweb.top/image/beinsports1-premium.png" group-title="Bein Sports",Bein Sport Premium 1HD
