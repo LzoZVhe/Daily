@@ -129,6 +129,20 @@ http://m3ulive.com:8080/techie2211-restream/baQh5EFZ/3713
 #EXTINF:-1 tvg-logo="https://static.s-sfr.fr/media/rmc_sport_rvb_sanscadre_v1-200x200.png" group-title="All Sports",[FR] RMC Sport 3
 http://m3ulive.com:8080/techie2211-restream/baQh5EFZ/3714
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3ZNreJ-yyCF1BKEknxdPKRHTzEMWQ88h3VFTPIBQ&s" group-title="All Sports",[CA] TSN 1
+http://m3ulive.com:8080/techie2211-restream/baQh5EFZ/92
+
+#EXTINF:-1 tvg-logo="https://ia800801.us.archive.org/32/items/stevechatfield27_gmail_Tsn2/tsn%202.png" group-title="All Sports",[US] TSN 2
+http://m3ulive.com:8080/techie2211-restream/baQh5EFZ/545365
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoy81F1nHFr_nSxBvd0efCEG_0OSRuOwQEi6ykfA0&s" group-title="All Sports",[CA] TSN 3
+http://m3ulive.com:8080/techie2211-restream/baQh5EFZ/94
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsU-hJJAeKDurdH7ZeHWaq3zqAIIy7Nr4RaHrzc-s&s" group-title="All Sports",[CA] TSN 4
+http://m3ulive.com:8080/techie2211-restream/baQh5EFZ/95
+
+#EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s90125_h15_aa.png" group-title="All Sports",[CA] TSN 5  http://m3ulive.com:8080/techie2211-restream/baQh5EFZ/96
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/hhF2YY7w/sport-tv-hd.png" group-title="All Sports",[PT] SPORT.TV + HD
 http://m3ulive.com:8080/techie2211-restream/baQh5EFZ/7731
 
