@@ -428,8 +428,7 @@ http://m3ulive.com:8080/techie1511-restream/fHcypJ2c/6291
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FPSMczbVkAAUfTQ.jpg" group-title="Movies",[BR] FX
 http://m3ulive.com:8080/techie1511-restream/fHcypJ2c/7925
 
-#EXTINF:-1 tvg-logo="https://www.cem.bg/files/163170824998567.jpg" group-title="Movies",
-[BG] Action Box
+#EXTINF:-1 tvg-logo="https://www.cem.bg/files/163170824998567.jpg" group-title="Movies",[BG] Action Box
 http://m3ulive.com:8080/techie1511-restream/fHcypJ2c/31223
 
 #EXTINF:-1 tvg-logo="https://channels1.digital.ugbb.net/wp-content/uploads/2020/07/pink-action.png" group-title="Movies",[EX-YU] Pink Action
