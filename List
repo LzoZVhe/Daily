@@ -842,7 +842,7 @@ http://m3uline.com:8080/Lzna61/8Hz3s2/55350
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/F/Fashion_TV-logo-6378A85AD1-seeklogo.com.png" group-title="Fashions",[IL] Yes Fashion
 http://m3uline.com:8080/Lzna61/8Hz3s2/2419960
 
-#EXTINF:-1 tvg-logo="https://cms.bbcafricachannels.com/sites/default/files/2021-07/BBC%20Lifestyle_gold%20logo.png" group-title="Fashion", [PL] BBC Lifestyle
+#EXTINF:-1 tvg-logo="https://cms.bbcafricachannels.com/sites/default/files/2021-07/BBC%20Lifestyle_gold%20logo.png" group-title="Fashions", [PL] BBC Lifestyle
 http://m3uline.com:8080/Lzna61/8Hz3s2/30875
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/F/Fashion_TV-logo-6378A85AD1-seeklogo.com.png" group-title="Fashions",[PH] Fashion TV
